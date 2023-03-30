@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680203855 source:c:\users\pewuk\documents\dev\hw\piksele\piksele\main.cpp
+	<iostream>
+	<cmath>
+
