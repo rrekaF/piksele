@@ -1,4 +1,4 @@
-# piksele
+///ODP 1 - 21, 2 - 15, 3 - (dec)765 789, 4 - 18
 #include <iostream>
 #include <cmath>
 using namespace std;
